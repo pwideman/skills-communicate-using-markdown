@@ -5,3 +5,5 @@
 ##### H5 header
 ###### H6 header
 ####### what does 7 hashes do?...
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
