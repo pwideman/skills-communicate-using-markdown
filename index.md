@@ -7,3 +7,7 @@
 ####### what does 7 hashes do?...
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+const x = 0;
+```
