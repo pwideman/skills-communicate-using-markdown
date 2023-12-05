@@ -11,3 +11,9 @@
 ``` javascript
 const x = 0;
 ```
+
+```[tasklist]
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+```
